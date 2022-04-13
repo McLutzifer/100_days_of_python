@@ -6,13 +6,11 @@ from money_machine import MoneyMachine
 
 money_machine = MoneyMachine()
 money_machine.report()
-
 coffee_maker = CoffeeMaker()
 coffee_maker.report()
-
 menu = Menu()
-
 is_on = True
+
 
 while is_on:
     options = menu.get_items()
