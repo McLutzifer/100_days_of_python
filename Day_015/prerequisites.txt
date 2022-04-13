@@ -1,0 +1,55 @@
+general info:
+
+making 3 hot drinks
+Espresso  1.50$
+Latte   2.50$
+Cappuccino  3.00$
+
+Espresso: 50ml Water, 18g Coffee
+Latte: 200ml Water, 24g Coffee, 150ml Milk
+Cappuccino: 250ml Water, 24g Coffee, 100ml Milk
+
+Resources: 300ml water, 200ml Milk, 100g coffee
+
+COIN OPERATED
+Penny: 1 cent
+Nickel: 5 Cent
+Dime: 10 Cent
+Quarter: 25 Cent
+
+
+Print requirements: resources left + money
+check resources sufficient
+Process coins
+Check if transaction successful
+Make coffee
+
+
+What would you like? (espresso/latte/cappuccino): >> report
+Water: 300ml
+Milk: 200ml
+Coffee: 100g
+Money: $0
+What would you like? (espresso/latte/cappuccino): >> latte
+please insert coins.
+How many pennies?: >> 12
+How many dimes?: >> 12
+How many nickels?: >> 12
+How many quarters?: >> 12
+Here is $2.42 in change.
+Here is your latte Enjoy!
+What would you like? (espresso/latte/cappuccino): >> report
+Water: 100ml
+Milk: 50ml
+Coffee: 76g
+Money: $2.5
+What would you like? (espresso/latte/cappuccino): >> cappuccino
+Sorry there is not enough water
+What would you like? (espresso/latte/cappuccino): >> espresso
+please insert coins.
+How many pennies?: >> 1
+How many dimes?: >> 1
+How many nickels?: >> 1
+How many quarters?: >> 1
+Sorry that's not enough money. Money refunded.
+What would you like? (espresso/latte/cappuccino):
