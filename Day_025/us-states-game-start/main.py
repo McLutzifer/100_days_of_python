@@ -24,4 +24,15 @@ while(len(guessed_states)) < 50:
         t.goto(int(state_data.x), int(state_data.y))
         t.write(answer_state)
 
-screen.exitonclick()
+    if answer_state == "Exit":
+        missed_states = []        
+        for state in all_states:
+            if state not in guessed_states:
+                missed_states.append(state)
+        break
+
+
+# screen.exitonclick()
+
+# states_to_learn.csv
+
